@@ -1,7 +1,8 @@
 # basic options
 title: Documenation Repository
-author: Francis Ferguson
-email: francis.ferguson@lumen.com
+author:
+  name: Francis Ferguson
+  email: francis.ferguson@lumen.com
 description: Examaple 
 
 # Build settings
