@@ -1,0 +1,9 @@
+# basic options
+title: Documenation Repository
+author: Francis Ferguson
+email: francis.ferguson@lumen.com
+description: Examaple 
+
+# Build settings
+markdown: kramdown
+theme: minima
