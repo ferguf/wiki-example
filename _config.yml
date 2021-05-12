@@ -8,3 +8,5 @@ description: Example
 # Build settings
 markdown: kramdown
 remote_theme: jekyll/minima
+
+theme: jekyll-theme-time-machine
