@@ -1,5 +1,5 @@
 ---
 layout: home
---- 
+---
 
-Welcome to the new docs
+## Welcome to the new docs
